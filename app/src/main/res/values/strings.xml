@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuggestionEditText</string>
+    <string name="simple_edit_text">Simple Edit Text</string>
+    <string name="magic_box">Magic Box</string>
+</resources>
